@@ -3,6 +3,9 @@ Raspberry Pi Workshop
 
 Many thanks to the [Makerhub](https://www.elon.edu/e/org/makers) at Elon University. They've got the Pis, they've got the talent!
 
+## Pinouts (via pinout.xyz)
+
+![Pinouts](https://raw.githubusercontent.com/jerrywaller/20180613-STEM/master/pinoutsXYZ.PNG)
 
 ---
 ## Sources and Attributions:
