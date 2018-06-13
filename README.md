@@ -16,3 +16,9 @@ Many thanks to the [Makerhub](https://www.elon.edu/e/org/makers) at Elon Univers
 <sup>3</sup> - https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins
 
 <sup>4</sup> - https://www.raspberrypi.org/documentation/usage/gpio/
+
+<sup>5</sup> - https://sourceforge.net/p/raspberry-gpio-python/wiki/PWM/
+
+<sup>6</sup> - https://learn.sparkfun.com/tutorials/raspberry-gpio
+
+<sup>7</sup> - https://sourceforge.net/p/raspberry-gpio-python/wiki/Inputs/ (this page is REALLY good)
