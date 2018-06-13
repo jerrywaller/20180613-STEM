@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/python
 
 # credit for this code goes to https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins
 # from whom I borrowed liberally. Thank you.
